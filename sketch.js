@@ -35,6 +35,7 @@ function draw() {
     }
    
     console.log(deformation)
+    console.log("hello");
   }
   drawSprites();
 }
